@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Variáveis e segredos
+.env
+.env.*
+
+# Modelos, checkpoints e logs
+checkpoints/
+models/
+gpt2/
+wandb/
+runs/
+*.ckpt
+*.pt
+*.pth
+
+# Saídas do Hugging Face Trainer
+distilbert-*-finetuned-*/
+
+# Arquivos temporários
+*.tmp
+*.log
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Variáveis e segredos
+.env
+.env.*
+
+# Modelos, checkpoints e logs
+checkpoints/
+models/
+gpt2/
+wandb/
+runs/
+*.ckpt
+*.pt
+*.pth
+
+# Saídas do Hugging Face Trainer
+distilbert-*-finetuned-*/
+
+# Arquivos temporários
+*.tmp
+*.log
