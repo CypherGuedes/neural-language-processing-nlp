@@ -175,4 +175,3 @@ Python, Jupyter Notebook, NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Hugg
 ## Observações
 
 Este é um repositório de estudo. Alguns experimentos, principalmente DistilBERT e GPT-2, exigem download de modelos ou pesos externos e podem demandar memória e tempo de processamento significativos.
-
